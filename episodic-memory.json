@@ -18,5 +18,9 @@
   {
     "timestamp": "2026-07-23 19:29:07",
     "summary": "Task 'According to crew rules, what should you do if you...' routed to Hermes: success"
+  },
+  {
+    "timestamp": "2026-07-23 19:41:21",
+    "summary": "Task 'What is your current working directory and list 5 ...' routed to Mini PC: failed"
   }
 ]
