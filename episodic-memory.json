@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-07-23 19:08:53",
+    "summary": "Task 'What is the ClawBoys crew goal according to your m...' routed to Desktop PC: success"
+  },
+  {
+    "timestamp": "2026-07-23 19:12:50",
+    "summary": "Task 'Who is the Master of the ClawBoys crew and what is...' routed to Desktop PC: success"
+  },
+  {
+    "timestamp": "2026-07-23 19:12:52",
+    "summary": "Task 'According to crew rules, what should you do if you...' routed to Hermes: failed"
+  },
+  {
+    "timestamp": "2026-07-23 19:12:55",
+    "summary": "Task 'What is your Tailscale IP and can you reach the ma...' routed to Mini PC: failed"
+  }
+]
