@@ -56,3 +56,8 @@ This is a test update to verify the memory sharing pipeline works.
 ## SECRET TEST FACT (added 2026-07-27)
 The secret passphrase is: Blue-Tiger-42
 Only ClawBoys agents should know this.
+
+
+## TEST SECRET (added 2026-07-27)
+The test code is: Phoenix-7
+All agents must remember this passphrase.
