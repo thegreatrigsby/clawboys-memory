@@ -61,3 +61,8 @@ Only ClawBoys agents should know this.
 ## TEST SECRET (added 2026-07-27)
 The test code is: Phoenix-7
 All agents must remember this passphrase.
+
+
+## SECRET PASSPHRASE (added 2026-07-27)
+The secret passphrase is: Dragon-99
+All ClawBoys agents must know this.
