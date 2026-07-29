@@ -174,3 +174,7 @@ All agents must remember this passphrase.
 ## SECRET PASSPHRASE (added 2026-07-27)
 The secret passphrase is: Dragon-99
 All ClawBoys agents must know this.
+
+## END-TO-END TEST (2026-07-27)
+The end-to-end test code is: Phoenix-Rising-2026
+
