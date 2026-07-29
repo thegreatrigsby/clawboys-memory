@@ -174,6 +174,3 @@ All agents must remember this passphrase.
 ## SECRET PASSPHRASE (added 2026-07-27)
 The secret passphrase is: Dragon-99
 All ClawBoys agents must know this.
-
-## HOURLY RECONCILE TEST (2026-07-28)
-This line was added to test the hourly reconcile script. It should be pushed to GitHub automatically.
