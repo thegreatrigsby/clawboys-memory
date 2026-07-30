@@ -1,0 +1,8 @@
+{
+  "id": "task-1785424860",
+  "agent": "mini",
+  "task": "Call Hermes on the Ping Mini PC. Check every ClawBoys/bridge daemon and supporting daemon expected on the Mini PC. For each daemon, report name, running/not running, PID(s), and concrete verification evidence (process/heartbeat/log freshness). Include overall health, failures, and any checks you could not perform. Do not claim success without live verification.",
+  "created_by": "desktop",
+  "created_at": "2026-07-30T15:21:00.657454+00:00",
+  "status": "pending"
+}
